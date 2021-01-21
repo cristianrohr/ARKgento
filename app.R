@@ -150,7 +150,7 @@ shinyApp(
             box(title = "Calcular rendimiento",
                 width = 4,
                 dateInput("fechaRendimiento", label = "Seleccione fecha inicial",
-                          value = "2020-01-01"),
+                          value = "2021-01-01"),
                 actionButton("calcularRendimiento", "Calcular Rendimiento")
                 ),
             # bs4Card(
@@ -362,7 +362,7 @@ shinyApp(
 
       quantmod::getSymbols(tickers,
                            from = input$fechaRendimiento,
-                           to = "2021-01-21")
+                           to = format(Sys.Date(),"%Y-%m-%d"))
       prices <- map(tickers,function(x) Ad(get(x)))
       prices <- reduce(prices,merge)
       colnames(prices) <- tickers
@@ -381,6 +381,7 @@ shinyApp(
       df.usar$PrecioFinal <- round(df.usar$PrecioFinal,2)
       df.usar$PrecioInicialPonderado <- round(df.usar$PrecioInicial*df.usar$FraccionAccionReal,2)
       df.usar$PrecioFinalPonderado <- round(df.usar$PrecioFinal*df.usar$FraccionAccionReal,2)
+      df.usar$PesoEnCartera <- round(((df.usar$PrecioFinal*df.usar$FraccionAccionReal)/sum(df.usar$PrecioFinal*df.usar$FraccionAccionReal)),2)
       
       vals$PerformanceARKgento <- round(sum(df.usar$PrecioFinalPonderado)/sum(df.usar$PrecioInicialPonderado)*100-100,2)
       
