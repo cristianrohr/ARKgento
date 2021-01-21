@@ -1,0 +1,12 @@
+name: ARKgento
+title: ARKgento
+username:
+account: cristianrohr
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3502135
+bundleId: 4126392
+url: https://cristianrohr.shinyapps.io/ARKgento/
+when: 1611249380.45079
+asMultiple: FALSE
+asStatic: FALSE
