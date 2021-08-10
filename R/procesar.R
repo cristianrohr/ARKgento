@@ -30,7 +30,8 @@ cedears <- read.xlsx("data/cedears.xlsx", sheetIndex = 1)
 #volumen <- read.xlsx("data/volumen_operado.xlsx", sheetIndex = 1)
 
 # Leo el volumen de invertironline
-content <- read_html("https://www.invertironline.com/mercado/cotizaciones/argentina/acciones/cedears")
+#content <- read_html("https://www.invertironline.com/mercado/cotizaciones/argentina/acciones/cedears")
+content <- read_html("https://www.invertironline.com/mercado/cotizaciones/argentina/cedears/todos")
 tables <- content %>% html_table(fill = TRUE)
 first_table <- tables[[1]]
 nombres <- first_table[1,]

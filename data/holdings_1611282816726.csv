@@ -1,0 +1,51 @@
+Fund Ticker,Security Identifier,Holding Ticker,Shares/Par Value,MarketValue,Weight,Name,Class of Shares,Sector,Date
+PWB,88160R101,TSLA ,42205,"35893242,25","4,621",Tesla Inc,Common Stock,Consumer Discretionary,01/20/2021
+PWB,70450Y103,PYPL ,113880,"27816328,8","3,581",PayPal Holdings Inc,Common Stock,Information Technology,01/20/2021
+PWB,883556102,TMO ,53381,"27536055,04","3,545",Thermo Fisher Scientific Inc,Common Stock,Health Care,01/20/2021
+PWB,37833100,AAPL ,203704,"26895039,12","3,462",Apple Inc,Common Stock,Information Technology,01/20/2021
+PWB,747525103,QCOM ,160774,"26463400,4","3,407",QUALCOMM Inc,Common Stock,Information Technology,01/20/2021
+PWB,02079K305,GOOGL ,13301,"25006811,07","3,219",Alphabet Inc,Common Stock,Communication Services,01/20/2021
+PWB,2824100,ABT ,218011,"24611261,79","3,168",Abbott Laboratories,Common Stock,Health Care,01/20/2021
+PWB,594918104,MSFT ,109705,"24611219,7","3,168",Microsoft Corp,Common Stock,Information Technology,01/20/2021
+PWB,23135106,AMZN ,7515,"24524300,7","3,157",Amazon.com Inc,Common Stock,Consumer Discretionary,01/20/2021
+PWB,872590104,TMUS ,183220,24240006,"3,12",T-Mobile US Inc,Common Stock,Communication Services,01/20/2021
+PWB,67066G104,NVDA ,45258,"24196284,54","3,115",NVIDIA Corp,Common Stock,Information Technology,01/20/2021
+PWB,00724F101,ADBE ,50694,"23812492,62","3,065",Adobe Inc,Common Stock,Information Technology,01/20/2021
+PWB,57636Q104,MA ,68515,"22946358,65","2,954",Mastercard Inc,Common Stock,Information Technology,01/20/2021
+PWB,30303M102,FB ,84742,"22666790,16","2,918",Facebook Inc,Common Stock,Communication Services,01/20/2021
+PWB,79466L302,CRM ,89953,"20099098,32","2,587",salesforce.com Inc,Common Stock,Information Technology,01/20/2021
+PWB,22788C105,CRWD ,67266,"15224313,78","1,96",Crowdstrike Holdings Inc,Common Stock,Information Technology,01/20/2021
+PWB,70614W100,PTON ,95382,"14859561,78","1,913",Peloton Interactive Inc,Common Stock,Consumer Discretionary,01/20/2021
+PWB,35671D857,FCX ,435116,"13475542,52","1,735",Freeport-McMoRan Inc,Common Stock,Materials,01/20/2021
+PWB,38222105,AMAT ,121233,"13073766,72","1,683",Applied Materials Inc,Common Stock,Information Technology,01/20/2021
+PWB,60770K107,MRNA ,102021,"12766907,94","1,643",Moderna Inc,Common Stock,Health Care,01/20/2021
+PWB,871607107,SNPS ,46665,"12759610,95","1,643",Synopsys Inc,Common Stock,Information Technology,01/20/2021
+PWB,127387108,CDNS ,90794,"12720239,4","1,637",Cadence Design Systems Inc,Common Stock,Information Technology,01/20/2021
+PWB,00507V109,ATVI ,133638,"12711646,56","1,636",Activision Blizzard Inc,Common Stock,Communication Services,01/20/2021
+PWB,512807108,LRCX ,22482,12657366,"1,629",Lam Research Corp,Common Stock,Information Technology,01/20/2021
+PWB,82509L107,SHOP ,10337,"12414530,26","1,598",Shopify Inc,Common Stock,Information Technology,01/20/2021
+PWB,84265V105,SCCO ,168981,"11874294,87","1,529",Southern Copper Corp,Common Stock,Materials,01/20/2021
+PWB,256163106,DOCU ,46283,"11816512,73","1,521",DocuSign Inc,Common Stock,Information Technology,01/20/2021
+PWB,81181C104,SGEN ,61081,"11654254,8","1,5",Seagen Inc,Common Stock,Health Care,01/20/2021
+PWB,651639106,NEM ,176828,"11232114,56","1,446",Newmont Corp,Common Stock,Materials,01/20/2021
+PWB,852234103,SQ ,49543,"11228920,95","1,445",Square Inc,Common Stock,Information Technology,01/20/2021
+PWB,45168D104,IDXX ,22516,"11146320,64","1,435",IDEXX Laboratories Inc,Common Stock,Health Care,01/20/2021
+PWB,92532F100,VRTX ,46439,"10992111,3","1,415",Vertex Pharmaceuticals Inc,Common Stock,Health Care,01/20/2021
+PWB,235851102,DHR ,45970,"10897188,5","1,403",Danaher Corp,Common Stock,Health Care,01/20/2021
+PWB,922475108,VEEV ,37868,"10893487,56","1,402",Veeva Systems Inc,Common Stock,Health Care,01/20/2021
+PWB,61174X109,MNST ,119420,"10701226,2","1,378",Monster Beverage Corp,Common Stock,Consumer Staples,01/20/2021
+PWB,761152107,RMD ,48682,"10610728,72","1,366",ResMed Inc,Common Stock,Health Care,01/20/2021
+PWB,81762P102,NOW ,19520,"10583548,8","1,362",ServiceNow Inc,Common Stock,Information Technology,01/20/2021
+PWB,55354G100,MSCI ,25147,"10524522,44","1,355",MSCI Inc,Common Stock,Financials,01/20/2021
+PWB,67103H107,ORLY ,22401,"10443122,19","1,344",O'Reilly Automotive Inc,Common Stock,Consumer Discretionary,01/20/2021
+PWB,615369105,MCO ,37041,"10205906,73","1,314",Moody's Corp,Common Stock,Financials,01/20/2021
+PWB,98978V103,ZTS ,62444,"10200851,84","1,313",Zoetis Inc,Common Stock,Health Care,01/20/2021
+PWB,444859102,HUM ,24643,"10136651,62","1,305",Humana Inc,Common Stock,Health Care,01/20/2021
+PWB,92345Y106,VRSK ,51690,"10064559,9","1,296",Verisk Analytics Inc,Common Stock,Industrials,01/20/2021
+PWB,824348106,SHW ,13648,"10047930,56","1,293",Sherwin-Williams Co/The,Common Stock,Materials,01/20/2021
+PWB,16119P108,CHTR ,15425,"9915498,5","1,276",Charter Communications Inc,Common Stock,Communication Services,01/20/2021
+PWB,78409V104,SPGI ,30093,"9688140,42","1,247",S&P Global Inc,Common Stock,Financials,01/20/2021
+PWB,256677105,DG ,47192,"9680023,04","1,246",Dollar General Corp,Common Stock,Consumer Discretionary,01/20/2021
+PWB,58498106,BLL ,104636,"9653717,36","1,243",Ball Corp,Common Stock,Materials,01/20/2021
+PWB,88339J105,TTD ,11900,9650781,"1,242",Trade Desk Inc/The,Common Stock,Information Technology,01/20/2021
+PWB,98980L101,ZM ,23528,"9006518,4","1,159",Zoom Video Communications Inc,Common Stock,Information Technology,01/20/2021
